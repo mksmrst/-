@@ -1,0 +1,12 @@
+[котогусеница.html](https://github.com/user-attachments/files/23569299/default.html)
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>This is the title</title>
+	</head>
+	<body>
+		<h1>котогусеница</h1>
+		<img src="cat.jpg" height="700" width="700">
+	</body>
+</html> 
